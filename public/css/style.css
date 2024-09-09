@@ -14,7 +14,7 @@ h1 {
 }
 
 .imgbox {
-    display: grid;
+    display: block;
     height: 100%;
 }
 
