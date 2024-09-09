@@ -9,12 +9,12 @@ h1 {
 }
 
 * {
-    margin: 0;
+    margin: 5;
     padding: 0;
 }
 
 .imgbox {
-    display: block;
+    display: grid;
     height: 100%;
 }
 
